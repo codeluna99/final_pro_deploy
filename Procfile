@@ -1,0 +1,1 @@
+web: gunicorn chatbotDeployment.wsgi
